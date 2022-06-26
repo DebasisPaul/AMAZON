@@ -6,8 +6,8 @@
 ### Technologies
 | Logo | Technologies | 
 | ----------- | ----------- |
-|<img src="https://th.bing.com/th/id/OIP.V-EXykC2eWn7fHqPslAl2wHaHX?pid=ImgDet&rs=1" style="width:50px;height:50px;">|[Visual Studio 2022 version 17.2.3 (Enterprise Preview)](https://visualstudio.microsoft.com/vs/preview/) `https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes`|
-|<img src="https://th.bing.com/th/id/R.3d6504d22dce42b5f9c6cdd19c4f5c0b?rik=l4CnmJIt2wpQlw&pid=ImgRaw&r=0" style="width:50px;height:50px;">|[.Net 7 Prev 5](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/)|
+|<img src="https://th.bing.com/th/id/OIP.V-EXykC2eWn7fHqPslAl2wHaHX?pid=ImgDet&rs=1" style="width:50px;height:50px;">|[Visual Studio 2022 version 17.2.3 (Community Preview)](https://visualstudio.microsoft.com/vs/preview/) `https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes`|
+|<img src="https://th.bing.com/th/id/R.3d6504d22dce42b5f9c6cdd19c4f5c0b?rik=l4CnmJIt2wpQlw&pid=ImgRaw&r=0" style="width:50px;height:50px;">|[.Net 6 LTS](https://devblogs.microsoft.com/dotnet/dotnet-7-generic-math/)|
 ||[SQL Server 2022 (16.x) Preview community technology preview (CTP) 2.0.](https://docs.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-2022?view=sql-server-ver16)||
 |<img src="https://www.rlogical.com/wp-content/uploads/2020/10/Blazor.png" style="width:50px;height:50px;">|[Blazor WebAssembly](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-6.0) |
 ||[Bootstrap v5.2](https://getbootstrap.com/) for layout & styling purposes.|
